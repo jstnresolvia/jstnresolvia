@@ -1,0 +1,34 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "17 4 * * *" # daily, keeps Uptime, stats and the graph current
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["profile.config.json", "assets/portrait.txt", "scripts/build.mjs"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build card
+        run: node scripts/build.mjs
+        env:
+          # A fine-grained or classic token with read access to your repos
+          # (classic: scopes repo + read:user). The default GITHUB_TOKEN cannot
+          # see private and organization repos, so the numbers would shrink.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "chore: update profile card" && git push)

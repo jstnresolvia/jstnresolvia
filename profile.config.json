@@ -1,0 +1,44 @@
+{
+  "login": "jstnresolvia",
+  "prompt": "justin@resolvia",
+  "birthday": "2004-02-27",
+  "system": [
+    ["OS", "Windows 11"],
+    ["Uptime", "{uptime}"],
+    ["Host", "Rheinfelden"],
+    ["Kernel", "Software Engineer @ Resolvia"],
+    ["IDE", "VS Code, Claude Code"]
+  ],
+  "languages": [
+    ["Languages.Programming", "TypeScript, JavaScript"],
+    ["Languages.Computer", "HTML, CSS, SQL, GraphQL"],
+    ["Languages.Real", "German, English"]
+  ],
+  "focus": [
+    ["Focus.AI", "Agents, MCP, LLM Automation"],
+    ["Focus.Web", "Next.js, React, PostgreSQL"],
+    ["Focus.Commerce", "Shopify, Returns, Support"],
+    ["Hobbies", null]
+  ],
+  "extra": [
+    {
+      "title": "Resolvia",
+      "rows": [
+        ["Product", "AI Customer Support for E-Commerce"],
+        ["Modules", "Inbox, Live Chat, Returns, Disputes"],
+        ["Integrations", "Shopify, DHL, Stripe, Gmail"],
+        ["Stack", "Next.js, PostgreSQL, OpenAI"]
+      ]
+    }
+  ],
+  "contact": [
+    ["Email", "justin@resolvia.ai"],
+    ["Website", "resolvia.ai"],
+    ["LinkedIn", "justin-becker-49b241322"]
+  ],
+  "buttons": [
+    { "label": "Resolvia", "icon": "monitor", "href": "https://resolvia.ai" },
+    { "label": "LinkedIn", "icon": "linkedin", "href": "https://www.linkedin.com/in/justin-becker-49b241322/" },
+    { "label": "Email", "icon": "mail", "href": "mailto:justin@resolvia.ai" }
+  ]
+}

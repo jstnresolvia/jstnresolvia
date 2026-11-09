@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="916" height="688" viewBox="0 0 916 688" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14px">
+  <style>
+    text { white-space: pre; }
+    .a { fill: #b1bac4; font-size: 9px; }
+    .h { fill: #66b8ff; font-weight: 700; }
+    .k { fill: #58a6ff; }
+    .v { fill: #a5d6ff; }
+    .p { fill: #c9d1d9; }
+    .d { fill: #484f58; }
+    .add { fill: #3fb950; }
+    .del { fill: #f85149; }
+    .c { fill: #66b8ff; }
+  </style>
+  <rect x="0.5" y="0.5" width="915" height="687" rx="12" fill="#161b22" stroke="#30363d"/>
+  <g xml:space="preserve">
+    <text x="24" y="112" class="a">                       =*++</text>
+    <text x="24" y="122.5" class="a">                      =*+*%     ***</text>
+    <text x="24" y="133" class="a">                   =#*-::=*+ -=+*+==+=+</text>
+    <text x="24" y="143.5" class="a">               =+*+==:.:..::::::---::-+-</text>
+    <text x="24" y="154" class="a">               #=-:::..   ..  ..::::::-==</text>
+    <text x="24" y="164.5" class="a">           #*=-::.....:.   ...::.....::::==</text>
+    <text x="24" y="175" class="a">         :=:::::.....:: .:........ ...:.:::-</text>
+    <text x="24" y="185.5" class="a">         *-::::...::.:..::....:::.  ..:::::-  -:   -</text>
+    <text x="24" y="196" class="a">        +=:::::::::..::::.::::::::::::.::::-=+=-=+-</text>
+    <text x="24" y="206.5" class="a">       ++-::::::::::..::::::--..::...::...::=-:--=**#+</text>
+    <text x="24" y="217" class="a">       -+::..::::....::..::.::........:..:::---- **++=</text>
+    <text x="24" y="227.5" class="a">       ==::........  .....:..::....:::::::::----</text>
+    <text x="24" y="238" class="a">       =-::...   .. ....:.......:::--==+*=-=*=-=    -</text>
+    <text x="24" y="248.5" class="a">        =::.... .....:::...:::::===++***##=*=:=- -- -</text>
+    <text x="24" y="259" class="a">        =-::........::::--::=++=---==+++*#+====-:</text>
+    <text x="24" y="269.5" class="a">         +-::.:-::::--+**++++=-:::::---=*#**=++</text>
+    <text x="24" y="280" class="a">           -::-+=---:--=+++++=::::::-=+***#*##+</text>
+    <text x="24" y="290.5" class="a">           +=:+*+====-:::-+**+=====+*#####***#</text>
+    <text x="24" y="301" class="a">           ===+*++=--:::-=+*%%****##%%%###*#=</text>
+    <text x="24" y="311.5" class="a">            =+=**+=+++++****#%##*+++*******#</text>
+    <text x="24" y="322" class="a">            ===*****###*****#%%%#+---===+++*</text>
+    <text x="24" y="332.5" class="a">             ++****###*+=+*****+-==-:.-===+*+</text>
+    <text x="24" y="343" class="a">              =-+****+=-=+=---:::--:::-===+=.=+</text>
+    <text x="24" y="353.5" class="a">                 *+++=::-------=----========</text>
+    <text x="24" y="364" class="a">                 -*++=--=--=======++++===-+#.    :</text>
+    <text x="24" y="374.5" class="a">                  -++++=+++++==-==+**+==-=*#*:</text>
+    <text x="24" y="385" class="a">                    ++++++***+=+*###*+--=+**#=</text>
+    <text x="24" y="395.5" class="a">                     .-+=+++****++=-:::-=+**#*</text>
+    <text x="24" y="406" class="a">                       +==------:..::--=+***#*</text>
+    <text x="24" y="416.5" class="a">                       *++==--::::---==++***#*.</text>
+    <text x="24" y="427" class="a">                       ****++++======++++***#*:</text>
+    <text x="24" y="437.5" class="a">                       =******+++++++++++**++=</text>
+    <text x="24" y="448" class="a">                        :=***********++++=: -.</text>
+    <text x="24" y="458.5" class="a">                      -    :--======-:     -</text>
+    <text x="24" y="469" class="a">                       :                 .=</text>
+    <text x="24" y="479.5" class="a">                        :                =</text>
+    <text x="24" y="490" class="a">              -**-       ::            -:</text>
+    <text x="24" y="500.5" class="a">              -+            .        ::            *@+@*</text>
+    <text x="24" y="511" class="a">                                 ..                 **@-</text>
+    <text x="24" y="521.5" class="a">    -       --                                       =</text>
+    <text x="24" y="532" class="a">   .=-      #*+                                                -</text>
+    <text x="24" y="542.5" class="a">  : -+:     +=:   -*-+*         :          :-  :    =#%*=      -</text>
+    <text x="24" y="553" class="a">  -=:            #**#*      -**#+      -:  =@+=+     +@++      .</text>
+    <text x="24" y="563.5" class="a">  =      -:=+    :*+#  -=+++*=+%:  +++#%=  =@-=-      -</text>
+    <text x="24" y="574" class="a"> -       =.*     +++*  == +#..**%#  =+@#   *@.=%</text>
+    <text x="24" y="584.5" class="a">         :-+-   -+.*=    :*:.+= --  =%=+#*:%%*#     -+-+#=</text>
+    <text x="401" y="38"><tspan class="h">justin@resolvia</tspan><tspan class="p"> </tspan><tspan class="d">──────────────────────────────────────────</tspan></text>
+    <text x="401" y="58"><tspan class="p">. </tspan><tspan class="k">OS</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">.........................................</tspan><tspan class="p"> </tspan><tspan class="v">Windows 11</tspan></text>
+    <text x="401" y="78"><tspan class="p">. </tspan><tspan class="k">Uptime</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">....................</tspan><tspan class="p"> </tspan><tspan class="v">22 years, 8 months, 13 days</tspan></text>
+    <text x="401" y="98"><tspan class="p">. </tspan><tspan class="k">Host</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">......................................</tspan><tspan class="p"> </tspan><tspan class="v">Rheinfelden</tspan></text>
+    <text x="401" y="118"><tspan class="p">. </tspan><tspan class="k">Kernel</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...................</tspan><tspan class="p"> </tspan><tspan class="v">Software Engineer @ Resolvia</tspan></text>
+    <text x="401" y="138"><tspan class="p">. </tspan><tspan class="k">IDE</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..............................</tspan><tspan class="p"> </tspan><tspan class="v">VS Code, Claude Code</tspan></text>
+    <text x="401" y="158"></text>
+    <text x="401" y="178"><tspan class="p">. </tspan><tspan class="k">Languages</tspan><tspan class="p">.</tspan><tspan class="k">Programming</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..........</tspan><tspan class="p"> </tspan><tspan class="v">TypeScript, JavaScript</tspan></text>
+    <text x="401" y="198"><tspan class="p">. </tspan><tspan class="k">Languages</tspan><tspan class="p">.</tspan><tspan class="k">Computer</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">............</tspan><tspan class="p"> </tspan><tspan class="v">HTML, CSS, SQL, GraphQL</tspan></text>
+    <text x="401" y="218"><tspan class="p">. </tspan><tspan class="k">Languages</tspan><tspan class="p">.</tspan><tspan class="k">Real</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">........................</tspan><tspan class="p"> </tspan><tspan class="v">German, English</tspan></text>
+    <text x="401" y="238"></text>
+    <text x="401" y="258"><tspan class="p">. </tspan><tspan class="k">Focus</tspan><tspan class="p">.</tspan><tspan class="k">AI</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..................</tspan><tspan class="p"> </tspan><tspan class="v">Agents, MCP, LLM Automation</tspan></text>
+    <text x="401" y="278"><tspan class="p">. </tspan><tspan class="k">Focus</tspan><tspan class="p">.</tspan><tspan class="k">Web</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..................</tspan><tspan class="p"> </tspan><tspan class="v">Next.js, React, PostgreSQL</tspan></text>
+    <text x="401" y="298"><tspan class="p">. </tspan><tspan class="k">Focus</tspan><tspan class="p">.</tspan><tspan class="k">Commerce</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..............</tspan><tspan class="p"> </tspan><tspan class="v">Shopify, Returns, Support</tspan></text>
+    <text x="401" y="318"></text>
+    <text x="401" y="338"><tspan class="p">- Resolvia </tspan><tspan class="d">───────────────────────────────────────────────</tspan></text>
+    <text x="401" y="358"><tspan class="p">. </tspan><tspan class="k">Product</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">............</tspan><tspan class="p"> </tspan><tspan class="v">AI Customer Support for E-Commerce</tspan></text>
+    <text x="401" y="378"><tspan class="p">. </tspan><tspan class="k">Modules</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...........</tspan><tspan class="p"> </tspan><tspan class="v">Inbox, Live Chat, Returns, Disputes</tspan></text>
+    <text x="401" y="398"><tspan class="p">. </tspan><tspan class="k">Integrations</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..............</tspan><tspan class="p"> </tspan><tspan class="v">Shopify, DHL, Stripe, Gmail</tspan></text>
+    <text x="401" y="418"><tspan class="p">. </tspan><tspan class="k">Stack</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">.....................</tspan><tspan class="p"> </tspan><tspan class="v">Next.js, PostgreSQL, OpenAI</tspan></text>
+    <text x="401" y="438"></text>
+    <text x="401" y="458"><tspan class="p">- Contact </tspan><tspan class="d">────────────────────────────────────────────────</tspan></text>
+    <text x="401" y="478"><tspan class="p">. </tspan><tspan class="k">Email</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..............................</tspan><tspan class="p"> </tspan><tspan class="v">justin@resolvia.ai</tspan></text>
+    <text x="401" y="498"><tspan class="p">. </tspan><tspan class="k">Website</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...................................</tspan><tspan class="p"> </tspan><tspan class="v">resolvia.ai</tspan></text>
+    <text x="401" y="518"><tspan class="p">. </tspan><tspan class="k">LinkedIn</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">......................</tspan><tspan class="p"> </tspan><tspan class="v">justin-becker-49b241322</tspan></text>
+    <text x="401" y="538"></text>
+    <text x="401" y="558"><tspan class="p">- GitHub Stats </tspan><tspan class="d">───────────────────────────────────────────</tspan></text>
+    <text x="401" y="578"><tspan class="p">. </tspan><tspan class="k">Repos</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..</tspan><tspan class="p"> </tspan><tspan class="v">3</tspan><tspan class="p"> {</tspan><tspan class="k">Contributed</tspan><tspan class="p">: </tspan><tspan class="v">1</tspan><tspan class="p">}</tspan><tspan class="p"> | </tspan><tspan class="k">Stars</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">................</tspan><tspan class="p"> </tspan><tspan class="v">0</tspan></text>
+    <text x="401" y="598"><tspan class="p">. </tspan><tspan class="k">Commits</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...............</tspan><tspan class="p"> </tspan><tspan class="v">594</tspan><tspan class="p"> | </tspan><tspan class="k">Followers</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">............</tspan><tspan class="p"> </tspan><tspan class="v">0</tspan></text>
+    <text x="401" y="618"><tspan class="p">. </tspan><tspan class="k">Lines of Code</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">.........</tspan><tspan class="p"> </tspan><tspan class="v">276,325</tspan><tspan class="p"> ( </tspan><tspan class="add">308,937++</tspan><tspan class="p">, </tspan><tspan class="del">32,612--</tspan><tspan class="p"> )</tspan></text>
+    <text x="401" y="658" class="c">&gt;</text>
+    <rect x="417.9" y="646" width="8.45" height="15" fill="#66b8ff"><animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+  </g>
+</svg>

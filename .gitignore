@@ -1,0 +1,4 @@
+preview.html
+node_modules/
+# The original photo stays on this machine; only the ASCII version is published.
+source/
