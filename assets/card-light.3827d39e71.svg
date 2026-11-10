@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="916" height="688" viewBox="0 0 916 688" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="14px">
   <style>
     text { white-space: pre; }
-    .a { fill: #b1bac4; font-size: 9px; }
-    .h { fill: #66b8ff; font-weight: 700; }
-    .k { fill: #58a6ff; }
-    .v { fill: #a5d6ff; }
-    .p { fill: #c9d1d9; }
-    .d { fill: #484f58; }
-    .add { fill: #3fb950; }
-    .del { fill: #f85149; }
-    .c { fill: #66b8ff; }
+    .a { fill: #57606a; font-size: 9px; }
+    .h { fill: #0969da; font-weight: 700; }
+    .k { fill: #0969da; }
+    .v { fill: #0a3069; }
+    .p { fill: #24292f; }
+    .d { fill: #afb8c1; }
+    .add { fill: #1a7f37; }
+    .del { fill: #cf222e; }
+    .c { fill: #0969da; }
   </style>
-  <rect x="0.5" y="0.5" width="915" height="687" rx="12" fill="#161b22" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="915" height="687" rx="12" fill="#f6f8fa" stroke="#d0d7de"/>
   <g xml:space="preserve">
     <text x="24" y="112" class="a">                       *=++</text>
     <text x="24" y="122.5" class="a">                      *=+=:     ===</text>
@@ -61,7 +61,7 @@
     <text x="24" y="584.5" class="a">         #*+#   #+@=*    #=#%+* ##  *:*+-=%::=-     #+#+-*</text>
     <text x="401" y="38"><tspan class="h">justin@resolvia</tspan><tspan class="p"> </tspan><tspan class="d">──────────────────────────────────────────</tspan></text>
     <text x="401" y="58"><tspan class="p">. </tspan><tspan class="k">OS</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">.........................................</tspan><tspan class="p"> </tspan><tspan class="v">Windows 11</tspan></text>
-    <text x="401" y="78"><tspan class="p">. </tspan><tspan class="k">Uptime</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">....................</tspan><tspan class="p"> </tspan><tspan class="v">22 years, 8 months, 13 days</tspan></text>
+    <text x="401" y="78"><tspan class="p">. </tspan><tspan class="k">Uptime</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">....................</tspan><tspan class="p"> </tspan><tspan class="v">22 years, 8 months, 14 days</tspan></text>
     <text x="401" y="98"><tspan class="p">. </tspan><tspan class="k">Host</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">......................................</tspan><tspan class="p"> </tspan><tspan class="v">Rheinfelden</tspan></text>
     <text x="401" y="118"><tspan class="p">. </tspan><tspan class="k">Kernel</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...................</tspan><tspan class="p"> </tspan><tspan class="v">Software Engineer @ Resolvia</tspan></text>
     <text x="401" y="138"><tspan class="p">. </tspan><tspan class="k">IDE</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">..............................</tspan><tspan class="p"> </tspan><tspan class="v">VS Code, Claude Code</tspan></text>
@@ -90,6 +90,6 @@
     <text x="401" y="598"><tspan class="p">. </tspan><tspan class="k">Commits</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">...............</tspan><tspan class="p"> </tspan><tspan class="v">594</tspan><tspan class="p"> | </tspan><tspan class="k">Followers</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">............</tspan><tspan class="p"> </tspan><tspan class="v">0</tspan></text>
     <text x="401" y="618"><tspan class="p">. </tspan><tspan class="k">Lines of Code</tspan><tspan class="p">:</tspan><tspan class="p"> </tspan><tspan class="d">.........</tspan><tspan class="p"> </tspan><tspan class="v">276,325</tspan><tspan class="p"> ( </tspan><tspan class="add">308,937++</tspan><tspan class="p">, </tspan><tspan class="del">32,612--</tspan><tspan class="p"> )</tspan></text>
     <text x="401" y="658" class="c">&gt;</text>
-    <rect x="417.9" y="646" width="8.45" height="15" fill="#66b8ff"><animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></rect>
+    <rect x="417.9" y="646" width="8.45" height="15" fill="#0969da"><animate attributeName="opacity" values="1;0" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></rect>
   </g>
 </svg>
